@@ -34,7 +34,7 @@ rm -rf ~/.config/nvim/.git
 cd ~/zorinsetup
 
 # Installing flatpak apps 
-flatpak install flathub com.rtosta.zapzap it.mijorus.gearlever re.sonny.Junction io.github.giantpinkrobots.varia com.mattjakeman.ExtensionManager com.github.tchx84.Flatseal org.onlyoffice.desktopeditors --noninteractive
+flatpak install flathub com.rtosta.zapzap it.mijorus.gearlever re.sonny.Junction io.github.giantpinkrobots.varia com.mattjakeman.ExtensionManager com.github.tchx84.Flatseal org.onlyoffice.desktopeditors us.zoom.Zoom --noninteractive
 
 # Install anytype and portmaster yourself
 
